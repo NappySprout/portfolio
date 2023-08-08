@@ -30,7 +30,7 @@
         </div>
       </div>
 
-      <div class="grid grid-cols-2 gap-4 sm:grid-cols-2">
+      <div class="grid md:grid-cols-2 gap-4 grid-cols-1">
         {#each experiences as {title, subtitle, date, content}}
         <a
           class="block rounded-xl border border-gray-100 p-4 shadow-sm hover:border-gray-200 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring"

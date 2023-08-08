@@ -5,7 +5,7 @@
     <div class="mx-auto max-w-xl text-center">
       <h1 class="text-3xl text-teal-700 font-extrabold sm:text-5xl">
         Hello World! <span class="inline-block hover:scale-150 transition hover:rotate-90">👋</span>🌎
-        <strong class="font-extrabold text-black sm:block">
+        <strong class="font-extrabold text-black block">
           My name is Darie Chan 
         </strong>
       </h1>
