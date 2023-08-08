@@ -1,0 +1,33 @@
+[
+  {
+    "title":"Autodesk, Singapore",
+    "subtitle":"Devops Intern",
+    "date":"May 2023 - Present",
+    "content": [
+      "Migrated Servers from ECS Vapour to Azure",
+      "Automated deployment to both AWS and Azure with Hashicorp tools like Terraform, Packer with Jenkins",
+      "Azure tools, Blob/Queue Storage, VM/VMSS, Compute Gallery"
+    ]
+  },
+  {
+    "title":"Switcheo, Singapore",
+    "subtitle":"Blockchain Developer Intern",
+    "date":"May 2022 - Aug 2022",
+    "content": [
+      "Built log in features and tables of an exchange",
+      "Frontend used React, Redux, Material UI, Typescript following designer’s spec",
+      "Backend used Nodejs to interact with chains and smart contracts. Libraries include etherjs, neonjs"
+    ]
+  },
+  {
+    "title":"Delvify, Singapore",
+    "subtitle":"Fullstack Intern",
+    "date":"Feb 2021 - Aug 2021",
+    "content": [
+      "Built Dashboard layout in React, data fetched from PSQL database via express backend",
+      "Deployed in AWS EC2 with docker",
+      "React and Redux frontend. Displayed Graph and Charts with React Chart. Express nodejs backend",
+      "Interacted with the database via Sequelize ORM. Query and aggregated the data with SQL language"
+    ]
+  }
+]
