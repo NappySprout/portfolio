@@ -1,8 +1,18 @@
 [
   {
-    "title":"Autodesk, Singapore",
-    "subtitle":"Devops Intern",
-    "date":"May 2023 - Present",
+    "title": "Govtech, Singapore",
+    "subtitle": "Devops Intern",
+    "date": "May 2024 - August 2024",
+    "content": [
+      "Wrote modular, reusable Ansible projects to automate RHEL 9 Machines for the government",
+      "Automated deployment/destruction of azure VM with molecule delegated driver",
+      "Set up gitlab runner with podman executor using ansible"
+    ]
+  },
+  {
+    "title": "Autodesk, Singapore",
+    "subtitle": "Devops Intern",
+    "date": "May 2023 - October 2023",
     "content": [
       "Migrated Servers from ECS Vapour to Azure",
       "Automated deployment to both AWS and Azure with Hashicorp tools like Terraform, Packer with Jenkins",
@@ -10,9 +20,9 @@
     ]
   },
   {
-    "title":"Switcheo, Singapore",
-    "subtitle":"Blockchain Developer Intern",
-    "date":"May 2022 - Aug 2022",
+    "title": "Switcheo, Singapore",
+    "subtitle": "Blockchain Developer Intern",
+    "date": "May 2022 - Aug 2022",
     "content": [
       "Built log in features and tables of an exchange",
       "Frontend used React, Redux, Material UI, Typescript following designer’s spec",
@@ -20,9 +30,9 @@
     ]
   },
   {
-    "title":"Delvify, Singapore",
-    "subtitle":"Fullstack Intern",
-    "date":"Feb 2021 - Aug 2021",
+    "title": "Delvify, Singapore",
+    "subtitle": "Fullstack Intern",
+    "date": "Feb 2021 - Aug 2021",
     "content": [
       "Built Dashboard layout in React, data fetched from PSQL database via express backend",
       "Deployed in AWS EC2 with docker",
