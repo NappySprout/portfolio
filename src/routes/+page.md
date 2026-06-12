@@ -1,10 +1,17 @@
+<script>
+  import crochet from '$lib/assets/crochet.png';
+</script>
+
 # Hi, I'm Darie
 
-I'm a backend engineer based in Singapore. I enjoy working on systems problems
+I'm a backend engineer based in Singapore. I enjoy solving puzzles — the kind that happen to run on computers.
 
-When I'm not at my desk, I'm playing electric guitar, training calisthenics, or reading Xianxia cultivation novels.
+When I'm not at my desk, I'm playing electric guitar, training calisthenics, crocheting, or reading Xianxia cultivation novels.
 
----
+<figure>
+  <img src={crochet} alt="crochet yoshi" />
+  <figcaption>crochet yoshi — took 2 weeks</figcaption>
+</figure>
 
 ## Work
 
@@ -12,10 +19,9 @@ When I'm not at my desk, I'm playing electric guitar, training calisthenics, or 
 
 - Cut REST endpoint latency by 87% (80ms -> &lt;10ms) via refactored DynamoDB query structures
 - Sped up async data migration 4x (8h -> 2h) using multithreading
+- Built a custom Claude tool to automate the SDLC from Jira ticket retrieval and codebase research to test generation and PR creation
 - Mitigated MySQL sharding migration risk with AWS Glue/Athena profiling scripts and Splunk dashboards
 - Restructured CI/CD to automate integration safety checks and isolate branch conflicts
-
----
 
 ## Internships
 
@@ -43,8 +49,6 @@ When I'm not at my desk, I'm playing electric guitar, training calisthenics, or 
 
 - Delivered a Docker-containerised analytics dashboard on AWS EC2 and ECR
 
----
-
 ## Projects
 
 **[Code Cultivator](https://chromewebstore.google.com/detail/code-cultivator/odokajkimfdkhabfplkccdjdnjbideig)** · [GitHub](https://github.com/NappySprout/leetcodext)
@@ -55,15 +59,11 @@ A Chrome extension for grinding Grind 169 with a cultivation novel theme. It pic
 
 A small web app for following the Wendler 5/3/1 program. You put in your 1RM, it gives you rep schemes and plate math for each week. Built with Svelte and Vite.
 
----
-
 ## Education
 
 **National University of Singapore** — B.Comp. Computer Science · Aug 2021 – May 2025
 
 Focus: Parallel and Distributed Computing
-
----
 
 ## Skills
 
@@ -71,8 +71,6 @@ Focus: Parallel and Distributed Computing
 
 **Cloud & Tools** — AWS (DynamoDB, Glue, Athena), Terraform, Ansible, Jenkins, Docker
 
----
-
 ## Contact
 
-dariechan223@gmail.com · [GitHub](https://github.com/NappySprout)
+dariechan223@gmail.com · [GitHub](https://github.com/NappySprout) · [LinkedIn](https://www.linkedin.com/in/darie-chan-rong-zhi/)
